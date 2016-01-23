@@ -1,28 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 114.9 92.2" enable-background="new 0 0 114.9 92.2" xml:space="preserve">
-<g>
-	<rect x="55" y="7" fill="#EE2A7B" width="3.2" height="18.8"/>
+<svg version="1.1" id="monikaltlogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 117.5 92.2" style="enable-background:new 0 0 117.5 92.2;" xml:space="preserve">
+
+	 <defs>
+<style type="text/css">
+	.st0{fill:#EE2A7B;}
+	.st1 {fill:#EE2A7B;}
+
+	.st0 {
+	stroke-dasharray:350;
+	stroke-dashoffset:0;
+<!-- 
+	-webkit-animation: dash 4s linear forwards;
+	-o-animation: dash 4s linear forwards;
+	-moz-animation: dash 4s linear forwards;
+	animation: dash 4s linear forwards;-->
+	}
+
+#monikaltlogo .st0 { fill:#EE2A7B;
+	transition: .8s;}
+
+	#monikaltlogo .st1 { fill:#EE2A7B;
+	transition: .8s;}
+
+#monikaltlogo {cursor:pointer;}	
+
+#monikaltlogo:hover .st1 { fill:#fff;stroke:#ccc;
+	transition: .8s;}
+	#monikaltlogo:hover .st0 { fill:#fff;stroke:#ccc;
+	transition: .8s;}
+
+	@-webkit-keyframes dash {
+	from {
+	stroke-dashoffset: 350;	
+	}
+	to {
+	stroke-dashoffset: 0;	
+	}
+	}
+
+</style>
+ </defs>
+
+<polygon id="letterm" class="st0" points="19.2,25.8 22.4,25.8 22.4,0.1 11.7,22.1 1.1,0 1.1,45.9 4.3,45.9 4.3,14.1 11.6,29.5 
+	19.2,14 "/>
+<path id="lettero" class="st0" d="M38.6,25.8V7.4H24.7v18.4H38.6z M27.9,10.6h7.5v11.8h-7.5V10.6z"/>
+<polygon id="lettern" class="st0" points="52.9,25.8 52.9,7 49.7,7 49.7,18.5 40.6,0.3 40.6,25.8 43.8,25.8 43.8,13.8 49.8,25.8 "/>
+<g id="letteri">
+	<rect x="56" y="7" class="st0" width="3.2" height="18.8"/>
 </g>
-<g>
-	<polygon fill="#EE2A7B" points="104.5,37.6 91.5,24.5 91.5,7 94.7,7 94.7,23.2 106.7,35.4 	"/>
+<polygon id="letterk" class="st0" points="77.4,7.1 75,7.1 72.3,7.1 65.3,12.8 65.3,7 62.1,7 62.1,25.8 65.3,25.8 65.3,16.9 
+	68.7,14.2 73.4,25.8 75.1,25.8 76.8,25.8 71.3,12.1 "/>
+<path id="lettera" class="st0" d="M83.2,7.1l-8.3,6l5.2,12.7h1.7h1.7l-3-7.3h6.4v7.3h3.2V7.1H83.2z M79.2,15.3l-0.4-1.1l5.4-3.9h2.7
+	v5H79.2z"/>
+<g id="letterl">
+	<polygon class="st0" points="105.5,37.6 92.6,24.5 92.6,7 95.8,7 95.8,23.2 107.8,35.4 	"/>
 </g>
-<g>
-	<rect x="96.7" y="7.1" fill="#EE2A7B" width="18.2" height="3.2"/>
-</g>
-<g>
-	<rect x="108.9" y="7" fill="#EE2A7B" width="3.2" height="38.8"/>
-</g>
-<path fill="#EE2A7B" d="M37.5,25.8V7.4H23.6v18.4H37.5z M26.8,10.6h7.5v11.8h-7.5V10.6z"/>
-<polygon fill="#EE2A7B" points="18.1,25.8 21.3,25.8 21.3,0.1 10.6,22.1 0,0 0,45.9 3.2,45.9 3.2,14.1 10.6,29.5 18.1,14 "/>
-<polygon fill="#EE2A7B" points="51.8,25.8 51.8,7 48.6,7 48.6,18.5 39.5,0.3 39.5,25.8 42.7,25.8 42.7,13.8 48.7,25.8 "/>
-<polygon fill="#EE2A7B" points="76.3,7.1 73.9,7.1 71.2,7.1 64.3,12.8 64.3,7 61.1,7 61.1,25.8 64.3,25.8 64.3,16.9 67.6,14.2 
-	72.3,25.8 74.1,25.8 75.8,25.8 70.2,12.1 "/>
-<path fill="#EE2A7B" d="M82.2,7.1l-8.3,6L79,25.8h1.7h1.7l-3-7.3h6.4v7.3h3.2V7.1H82.2z M78.2,15.3l-0.4-1.1l5.4-3.9h2.7v5H78.2z"/>
-<path fill="#EE2A7B" d="M90.7,30.6L90.7,30.6l-1.6-1.6h0h-1.3H60.2h-3.1h-1.3h-2.6h-0.6h-25H25h-1.3L22,30.6L5.9,45.7l3.3,3l0,0
-	l36.4,33.6l11.1,9.9l1.5-1.4l0,0l10.9-9.9l0,0v0l31.7-29.8l0,0l4.3-3.9h0l1.6-1.5L90.7,30.6z M84.6,32.1L72.4,44.2L60.3,32.1H84.6z
-	 M56.4,32.8L68.6,45H44.3L56.4,32.8z M52.5,32.1L40.3,44.3L28.2,32.1H52.5z M24.3,32.8L36.4,45H12.1L24.3,32.8z M15,48.7h25.2
-	L52,83.2l0.3,0.8L15,48.7z M56.4,85.5L55,82.1L44.4,48.6l23.9,0L56.4,85.5z M61.1,83.8l12.5-35.2l24.1,0L61.1,83.8z M76.3,45
-	l12.2-12.2L100.6,45H76.3z"/>
+<polygon id="lettert" class="st0" points="115.9,7.1 113.2,7.1 110,7.1 97.8,7.1 97.8,10.3 110,10.3 110,45.9 113.2,45.9 
+	113.2,10.3 115.9,10.3 "/>
+<path id="diamondshape" class="st1" d="M91.8,30.6L91.8,30.6l-1.6-1.6h0h-1.3H61.3h-3.1h-1.3h-2.6h-0.6h-25h-2.5h-1.3l-1.6,1.6
+	L6.9,45.7l3.3,3l0,0l36.4,33.6l11.1,9.9l1.5-1.4l0,0l10.9-9.9l0,0v0l31.7-29.8l0,0l4.3-3.9h0l1.6-1.5L91.8,30.6z M85.6,32.1
+	L73.5,44.2L61.4,32.1H85.6z M57.5,32.8L69.6,45H45.3L57.5,32.8z M53.6,32.1L41.4,44.3L29.3,32.1H53.6z M25.3,32.8L37.5,45H13.2
+	L25.3,32.8z M16.1,48.7h25.2l11.8,34.5l0.3,0.8L16.1,48.7z M57.5,85.5l-1.4-3.4L45.5,48.6l23.9,0L57.5,85.5z M62.2,83.8l12.5-35.2
+	l24.1,0L62.2,83.8z M77.4,45l12.2-12.2L101.7,45H77.4z"/>
 </svg>
