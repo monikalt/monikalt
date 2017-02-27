@@ -18,9 +18,11 @@ $(document).ready(function() {
     });
   });
 
-  $('#projects').isotope({
-    itemSelector: '.project-item',
-    layoutMode: 'fitRows'
-  });
+  if ($('#projects').length) {
+    $('#projects').isotope({
+      itemSelector: '.project-item',
+      layoutMode: 'fitRows'
+    });
+  }
   
 });
